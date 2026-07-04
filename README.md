@@ -4,6 +4,8 @@ Firmware for my hand-wired Dactyl Manuform spit mechanical keyboard that I conve
 
 Nicknamed "Mactyl" as it's a MacOS-layout Dactyl Manuform.
 
+![Mactyl Keyboard](mactyl.png)
+
 Keymap layout
 
 ![Mactyl Keymap - Default Layer](mactyl-keymap-default.png)
